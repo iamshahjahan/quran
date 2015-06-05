@@ -22,7 +22,7 @@ int main()
 
 		while( fgets(line,10000,fp) != NULL )
 		{
-			if ( strcmp(line,"\n") == 0 || strcmp(line,"Surah Index | NobleQuran.com | Dar-us-Salam.com | Khutba.org | SahihMuslim.org") || strcmp(line,"\n") )
+			if ( strcmp(line,"\n") == 0 || strcmp(line,"Surah Index | NobleQuran.com | Dar-us-Salam.com | Khutba.org | SahihMuslim.org") || strcmp(line,"") )
 			{
 				continue;
 			}
