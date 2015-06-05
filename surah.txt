@@ -1,120 +1,116 @@
-Al-Fatihah
-
-Al-Baqarah
-Ale-Imran
-An-Nisa'
-Al-Ma'idah
-Al-An'am
-Al-A'raf
-Al-Anfal
-At-Taubah
-Yunus
-Hud
-Yusuf
-Ar-Ra'd
-Ibrahim
-Al-Hijr
-An-Nahl
-Al-Isra'
-Al-Kahf
-Maryam
-Ta-Ha
-Al-Anbiyah'
-Al-Hajj
-Al-Mu'minun
-An-Nur
-Al-Furqan
-Ash-Shu'ara'
-An-Naml
-Al-Qasas
-Al-Ankabut
-Ar-Rum
-Luqman
-
-As-Sajdah
-Al-Ahzab
-Saba'
-Al-Fatir
-Ya-Sin
-
-As-Saffaat
-Saad
-
-Az-Zumar
-Ghafir
-Fussilat
-Ash-Shurah
-Az-Zukhruf
-Ad-Dukhan
-Al-Jathiyah
-Al-Ahqaf
-Muhammad
-
-Al-Fath
-Al-Hujuraat
-Qaf
-
-Adh-Dhariyat
-At-Tur
-An-Najm
-Al-Qamar
-Ar-Rahman
-Al-Waqi'ah
-Al-Hadid
-Al-Mujadilah
-Al-Hashr
-Al-Mumtahinah
-As-Saff
-Al-Jumu'ah
-Al-Munafiqun
-Al-Taghabun
-At-Talaaq
-At-Tahrim
-Al-Mulk
-Al-Qalam
-Al-Haqqah
-Al-Ma'arij
-Nuh
-Al-Jinn
-Al-Muzzammil
-Al-Muddathir
-Al-Qiyamah
-Al-Insan
-Al-Mursalaat
-An-Naba'
-An-Nazi'aat
-Abasa
-At-Takwir
-Al-Infitaar
-Al-Mutaffifin
-Al-Inshiqaq
-Al-Burooj
-At-Tariq
-Al-A'la
-Al-Ghaashiyah
-Al-Fajr
-Al-Balad
-Ash-Shams
-Al-Lail
-Ad-Duha
-Ash-Sharh
-At-Tin
-Al-Alaq
-Al-Qadr
-Al-Baiyyinah
-Al-Zalzalah
-Al-Aadiyaat
-Al-Qari'ah
-At-Takaathur
-Al-Asr
-Al-Humazah
-Al-Feel
-Al-Quraish
-Al-Maa'oon
-Al-Kauthar
-Al-Kaafiroon
-An-Nasr
-Al-Masad
-Al-Ikhlaas
-Al-Falaq
-An-Naas
+<string-array name ="chapters">
+	<item>Al-Fatihah</item>
+	<item>Al-Baqarah</item>
+	<item>Ale-Imran</item>
+	<item>An-Nisa'</item>
+	<item>Al-Ma'idah</item>
+	<item>Al-An'am</item>
+	<item>Al-A'raf</item>
+	<item>Al-Anfal</item>
+	<item>At-Taubah</item>
+	<item>Yunus</item>
+	<item>Hud</item>
+	<item>Yusuf</item>
+	<item>Ar-Ra'd</item>
+	<item>Ibrahim</item>
+	<item>Al-Hijr</item>
+	<item>An-Nahl</item>
+	<item>Al-Isra'</item>
+	<item>Al-Kahf</item>
+	<item>Maryam</item>
+	<item>Ta-Ha</item>
+	<item>Al-Anbiyah'</item>
+	<item>Al-Hajj</item>
+	<item>Al-Mu'minun</item>
+	<item>An-Nur</item>
+	<item>Al-Furqan</item>
+	<item>Ash-Shu'ara'</item>
+	<item>An-Naml</item>
+	<item>Al-Qasas</item>
+	<item>Al-Ankabut</item>
+	<item>Ar-Rum</item>
+	<item>Luqman</item>
+	<item>As-Sajdah</item>
+	<item>Al-Ahzab</item>
+	<item>Saba'</item>
+	<item>Al-Fatir</item>
+	<item>Ya-Sin</item>
+	<item>As-Saffaat</item>
+	<item>Saad</item>
+	<item>Az-Zumar</item>
+	<item>Ghafir</item>
+	<item>Fussilat</item>
+	<item>Ash-Shurah</item>
+	<item>Az-Zukhruf</item>
+	<item>Ad-Dukhan</item>
+	<item>Al-Jathiyah</item>
+	<item>Al-Ahqaf</item>
+	<item>Muhammad</item>
+	<item>Al-Fath</item>
+	<item>Al-Hujuraat</item>
+	<item>Qaf</item>
+	<item>Adh-Dhariyat</item>
+	<item>At-Tur</item>
+	<item>An-Najm</item>
+	<item>Al-Qamar</item>
+	<item>Ar-Rahman</item>
+	<item>Al-Waqi'ah</item>
+	<item>Al-Hadid</item>
+	<item>Al-Mujadilah</item>
+	<item>Al-Hashr</item>
+	<item>Al-Mumtahinah</item>
+	<item>As-Saff</item>
+	<item>Al-Jumu'ah</item>
+	<item>Al-Munafiqun</item>
+	<item>Al-Taghabun</item>
+	<item>At-Talaaq</item>
+	<item>At-Tahrim</item>
+	<item>Al-Mulk</item>
+	<item>Al-Qalam</item>
+	<item>Al-Haqqah</item>
+	<item>Al-Ma'arij</item>
+	<item>Nuh</item>
+	<item>Al-Jinn</item>
+	<item>Al-Muzzammil</item>
+	<item>Al-Muddathir</item>
+	<item>Al-Qiyamah</item>
+	<item>Al-Insan</item>
+	<item>Al-Mursalaat</item>
+	<item>An-Naba'</item>
+	<item>An-Nazi'aat</item>
+	<item>Abasa</item>
+	<item>At-Takwir</item>
+	<item>Al-Infitaar</item>
+	<item>Al-Mutaffifin</item>
+	<item>Al-Inshiqaq</item>
+	<item>Al-Burooj</item>
+	<item>At-Tariq</item>
+	<item>Al-A'la</item>
+	<item>Al-Ghaashiyah</item>
+	<item>Al-Fajr</item>
+	<item>Al-Balad</item>
+	<item>Ash-Shams</item>
+	<item>Al-Lail</item>
+	<item>Ad-Duha</item>
+	<item>Ash-Sharh</item>
+	<item>At-Tin</item>
+	<item>Al-Alaq</item>
+	<item>Al-Qadr</item>
+	<item>Al-Baiyyinah</item>
+	<item>Al-Zalzalah</item>
+	<item>Al-Aadiyaat</item>
+	<item>Al-Qari'ah</item>
+	<item>At-Takaathur</item>
+	<item>Al-Asr</item>
+	<item>Al-Humazah</item>
+	<item>Al-Feel</item>
+	<item>Al-Quraish</item>
+	<item>Al-Maa'oon</item>
+	<item>Al-Kauthar</item>
+	<item>Al-Kaafiroon</item>
+	<item>An-Nasr</item>
+	<item>Al-Masad</item>
+	<item>Al-Ikhlaas</item>
+	<item>Al-Falaq</item>
+	<item>An-Naas</item>
+</string-array>

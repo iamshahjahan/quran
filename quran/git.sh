@@ -1,3 +1,3 @@
 git add .
-git commit -m "Adding integer to surah name"
+git commit -m "Adding item tag before surah item"
 git push -u origin master
