@@ -25,6 +25,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 </string-array>
 
 
+
 <string-array name="Yunus"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -356,7 +357,11 @@ In the Name of Allah, The Most Gracious, Most Merciful
 109. And (O Muhammad ), follow the inspiration sent unto you, and be patient till Allah gives judgement. And He is the Best of judges.
 </item>
 </string-array>
-<string-array name="Al-Aadiyaat"><item> 
+
+
+
+<string-array 
+name="Al-Aadiyaat"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
 <item> 
@@ -393,6 +398,8 @@ In the Name of Allah, The Most Gracious, Most Merciful
 11. Verily, that Day (i.e. the Day of Resurrection) their Lord will be Well-Acquainted with them (as to their deeds), (and will reward them for their deeds).
 </item>
 </string-array>
+
+
 <string-array name="Al-Qari'ah"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -430,6 +437,8 @@ In the Name of Allah, The Most Gracious, Most Merciful
 11. (It is) a hot blazing Fire!
 </item>
 </string-array>
+
+
 <string-array name="At-Takaathur"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -458,6 +467,9 @@ In the Name of Allah, The Most Gracious, Most Merciful
 8. Then, on that Day, you shall be asked about the delight (you indulged in, in this world)!
 </item>
 </string-array>
+
+
+
 <string-array name="Al-Asr"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -471,6 +483,8 @@ In the Name of Allah, The Most Gracious, Most Merciful
 3. Except those who believe (in Islamic Monotheism) and do righteous good deeds, and recommend one another to the truth (i.e. order one another to perform all kinds of good deeds (Al-Ma'ruf)which Allah has ordained, and abstain from all kinds of sins and evil deeds (Al-Munkar)which Allah has forbidden), and recommend one another to patience (for the sufferings, harms, and injuries which one may encounter in Allah's Cause during preaching His religion of Islamic Monotheism or Jihad, etc.).
 </item>
 </string-array>
+
+
 <string-array name="Al-Humazah"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -502,6 +516,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 9. In pillars stretched forth (i.e. they will be punished in the Fire with pillars, etc.).
 </item>
 </string-array>
+
 <string-array name="Al-Feel"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -521,6 +536,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 5. And made them like an empty field of stalks (of which the corn has been eaten up by cattle).
 </item>
 </string-array>
+
 <string-array name="Al-Quraish
 "><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
@@ -538,6 +554,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 4. (He) Who has fed them against hunger, and has made them safe from fear.
 </item>
 </string-array>
+
 <string-array name="Al-Maa'oon"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -563,6 +580,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 7. And refuse Al-Ma'un (small kindnesses e.g. salt, sugar, water, etc.).
 </item>
 </string-array>
+
 <string-array name="Al-Kauthar"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -576,6 +594,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 3. For he who makes you angry (O Muhammad ()), - he will be cut off (from every good thing in this world and in the Hereafter).
 </item>
 </string-array>
+
 <string-array name="Al-Kaafiroon"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -598,6 +617,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 6. To you be your religion, and to me my religion (Islamic Monotheism).
 </item>
 </string-array>
+
 <string-array name="Hud"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -974,6 +994,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 123. And to Allah belongs the Ghaib (unseen) of the heavens and the earth, and to Him return all affairs (for decision). So worship Him (O Muhammad ) and put your trust in Him. And your Lord is not unaware of what you (people) do.
 </item>
 </string-array>
+
 <string-array name="An-Nasr"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -987,6 +1008,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 3. So glorify the Praises of your Lord, and ask for His Forgiveness. Verily, He is the One Who accepts the repentance and forgives.
 </item>
 </string-array>
+
 <string-array name="Al-Masad"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -1006,6 +1028,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 5. In her neck is a twisted rope of Masad (palm fibre).
 </item>
 </string-array>
+
 <string-array name="Al-Ikhlaas"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -1022,6 +1045,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 4. And there is none co-equal or comparable unto Him.
 </item>
 </string-array>
+
 <string-array name="Al-Falaq"><item> 
  In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -1041,6 +1065,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 5. And from the evil of the envier when he envies.
 </item>
 </string-array>
+
 <string-array name="An-Naas"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -1077,6 +1102,7 @@ To buy the hard copy of The Noble Quran or any other books visit Dar-us-Salam.co
 <item> 
  </item>
 </string-array>
+
 <string-array name="Yusuf"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -1417,6 +1443,7 @@ These are the Verses of the Clear Book (the Qur'an that makes clear the legal an
 111. Indeed in their stories, there is a lesson for men of understanding. It (the Qur'an) is not a forged statement but a confirmation of the Allah's existing Books [the Taurat (Torah), the Injeel (Gospel) and other Scriptures of Allah] and a detailed explanation of everything and a guide and a Mercy for the people who believe.
 </item>
 </string-array>
+
 <string-array name="Ar-Ra'd"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -1556,6 +1583,7 @@ These are the Verses of the Book (the Qur'an), and that which has been revealed 
 43. And those who disbelieve, say: You (O Muhammad ) are not a Messenger. Say: Sufficient for a witness between me and you is Allah and those too who have knowledge of the Scripture (such as 'Abdullah bin Salam and other Jews and Christians who embraced Islam).
 </item>
 </string-array>
+
 <string-array name="Ibrahim"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -1722,6 +1750,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 52. This (Qur'an) is a Message for mankind (and a clear proof against them), in order that they may be warned thereby, and that they may know that He is the only One Ilah (God - Allah) - (none has the right to be worshipped but Allah), and that men of understanding may take heed.
 </item>
 </string-array>
+
 <string-array name="Al-Hijr"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -2026,6 +2055,7 @@ These are the Verses of the Book, and a plain Qur'an.
 99. And worship your Lord until there comes unto you the certainty (i.e. death).
 </item>
 </string-array>
+
 <string-array name="An-Nahl"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -2414,6 +2444,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 128. Truly, Allah is with those who fear Him (keep their duty unto Him) , and those who are Muhsinun (good-doers, - see the footnote of V.9:120).
 </item>
 </string-array>
+
 <string-array name="Al-Isra'"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -2751,6 +2782,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 111. And say: All the praises and thanks be to Allah, Who has not begotten a son (nor an offspring), and Who has no partner in (His) Dominion, nor He is low to have a Wali (helper, protector or supporter). And magnify Him with all the magnificence, [Allahu-Akbar (Allah is the Most Great)].
 </item>
 </string-array>
+
 <string-array name="Al-Kahf"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -3085,6 +3117,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 110. Say (O Muhammad ): I am only a man like you. It has been inspired to me that your Ilah (God) is One Ilah (God i.e. Allah). So whoever hopes for the Meeting with his Lord, let him work righteousness and associate none as a partner in the worship of his Lord.
 </item>
 </string-array>
+
 <string-array name="Maryam"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -3385,7 +3418,8 @@ In the Name of Allah, The Most Gracious, Most Merciful
 <item> 
 98. And how many a generation before them have We destroyed! Can you (O Muhammad ) find a single one of them or hear even a whisper of them?
 </item>
-</string-array><string-array name="Al-Baqarah"><item> 
+</string-array>
+<string-array name="Al-Baqarah"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
 <item> 
@@ -4247,6 +4281,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 286. Allah burdens not a person beyond his scope. He gets reward for that (good) which he has earned, and he is punished for that (evil) which he has earned. Our Lord! Punish us not if we forget or fall into error, our Lord! Lay not on us a burden like that which You did lay on those before us (Jews and Christians); our Lord! Put not on us a burden greater than we have strength to bear. Pardon us and grant us Forgiveness. Have mercy on us. You are our Maula (Patron, Suppor-ter and Protector, etc.) and give us victory over the disbelieving people.
 </item>
 </string-array>
+
 <string-array name="Ta-Ha
 "><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
@@ -4660,6 +4695,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 135. Say (O Muhammad ): Each one (believer and disbeliever, etc.) is waiting, so wait you too, and you shall know who are they that are on the Straight and Even Path (i.e. Allah's Religion of Islamic Monotheism), and who are they that have let themselves be guided (on the Right Path).
 </item>
 </string-array>
+
 <string-array name="Al-Anbiyah'"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -5000,6 +5036,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 112. He (Muhammad ) said:My Lord! Judge You in truth! Our Lord is the Most Beneficent, Whose Help is to be sought against that which you attribute (unto Allah that He has offspring, and unto Muhammad that he is a sorcerer, and unto the Qur'an that it is poetry, etc.)!
 </item>
 </string-array>
+
 <string-array name="Al-Hajj"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -5238,6 +5275,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 78. And strive hard in Allah's Cause as you ought to strive (with sincerity and with all your efforts that His Name should be superior). He has chosen you (to convey His Message of Islamic Monotheism to mankind by inviting them to His religion, Islam), and has not laid upon you in religion any hardship, it is the religion of your father Ibrahim (Abraham) (Islamic Monotheism). It is He (Allah) Who has named you Muslims both before and in this (the Qur'an), that the Messenger (Muhammad ) may be a witness over you and you be witnesses over mankind! So perform As-Salat (Iqamat-as-Salat), give Zakat and hold fast to Allah [i.e. have confidence in Allah, and depend upon Him in all your affairs] He is your Maula (Patron, Lord, etc.), what an Excellent Maula (Patron, Lord, etc.) and what an Excellent Helper!
 </item>
 </string-array>
+
 <string-array name="Al-Mu'minun"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -5596,6 +5634,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 118. And say (O Muhammad ): My Lord! Forgive and have mercy, for You are the Best of those who show mercy!
 </item>
 </string-array>
+
 <string-array name="An-Nur"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -5792,6 +5831,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 64. Certainly, to Allah belongs all that is in the heavens and the earth. Surely, He knows your condition and (He knows) the Day when they will be brought back to Him, then He will inform them of what they did. And Allah is All-Knower of everything.
 </item>
 </string-array>
+
 <string-array name="Al-Furqan"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -6027,6 +6067,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 77. Say (O Muhammad  to the disbelievers): My Lord pays attention to you only because of your invocation to Him. But now you have indeed denied (Him). So the torment will be yours for ever (inseparable permanent punishment).
 </item>
 </string-array>
+
 <string-array name="Ash-Shu'ara'"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -6715,6 +6756,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 227. Except those who believe (in the Oneness of Allah Islamic Monotheism), and do righteous deeds, and remember Allah much, and reply back (in poetry) to the unjust poetry (which the pagan poets utter against the Muslims). And those who do wrong will come to know by what overturning they will be overturned.
 </item>
 </string-array>
+
 <string-array name="An-Naml"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -7001,6 +7043,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 93. And say [(O Muhammad ) to these polytheists and pagans etc.]: All the praises and thanks be to Allah. He will show you His Ayat (signs, in yourselves, and in the universe or punishments, etc.), and you shall recognise them. And your Lord is not unaware of what you do.
 </item>
 </string-array>
+
 <string-array name="Al-Qasas"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -7272,6 +7315,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 88. And invoke not any other ilah (god) along with Allah, La ilaha illa Huwa (none has the right to be worshipped but He). Everything will perish save His Face. His is the Decision, and to Him you (all) shall be returned.
 </item>
 </string-array>
+
 <string-array name="Al-Ankabut"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -7485,7 +7529,8 @@ In the Name of Allah, The Most Gracious, Most Merciful
 <item> 
 69. As for those who strive hard in Us (Our Cause), We will surely guide them to Our Paths (i.e. Allah's Religion - Islamic Monotheism). And verily, Allah is with the Muhsinun (good doers).
 </item>
-</string-array><string-array name="Ale-Imran"><item> 
+</string-array>
+<string-array name="Ale-Imran"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
 <item> 
@@ -8088,6 +8133,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 <item> 
 200. O you who believe! Endure and be more patient (than your enemy), and guard your territory by stationing army units permanently at the places from where the enemy can attack you, and fear Allah, so that you may be successful.</item>
 </string-array>
+
 <string-array name="Ar-Rum"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -8275,6 +8321,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 60. So be patient (O Muhammad ). Verily, the Promise of Allah is true, and let not those who have no certainty of faith, discourage you from conveying Allah's Message (which you are obliged to convey).
 </item>
 </string-array>
+
 <string-array name="Luqman
 "><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
@@ -8385,6 +8432,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 34. Verily, Allah! With Him (Alone) is the knowledge of the Hour, He sends down the rain, and knows that which is in the wombs. No person knows what he will earn tomorrow, and no person knows in what land he will die. Verily, Allah is All-Knower, All-Aware (of things).
 </item>
 </string-array>
+
 <string-array name="As-Sajdah"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -8482,6 +8530,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 30. So turn aside from them (O Muhammad ) and await, verily they (too) are awaiting.
 </item>
 </string-array>
+
 <string-array name="Al-Ahzab"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -8705,6 +8754,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 73. So that Allah will punish the hypocrites, men and women, and the men and women who are Al-Mushrikun (the polytheists, idolaters, pagans, disbelievers in the Oneness of Allah, and in His Messenger Muhammad  ). And Allah will pardon (accept the repentance of) the true believers of the Islamic Monotheism, men and women. And Allah is Ever Oft-Forgiving, Most Merciful.
 </item>
 </string-array>
+
 <string-array name="Saba'"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -8871,6 +8921,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 54. And a barrier will be set between them and that which they desire [i.e. At-Taubah (turning to Allah in repentance) and the accepting of Faith etc.], as was done in the past with the people of their kind. Verily, they have been in grave doubt.
 </item>
 </string-array>
+
 <string-array name="Al-Fatir"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -9010,6 +9061,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 45. And if Allah were to punish men for that which they earned, He would not leave a moving (living) creature on the surface of the earth, but He gives them respite to an appointed term, and when their term comes, then verily, Allah is Ever All-Seer of His slaves.
 </item>
 </string-array>
+
 <string-array name="Ya-Sin
 "><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
@@ -9267,6 +9319,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 83. So Glorified is He and Exalted above all that they associate with Him, and in Whose Hands is the dominion of all things, and to Him you shall be returned.
 </item>
 </string-array>
+
 <string-array name="As-Saffaat"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -9817,6 +9870,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 182. And all the praise and thanks be to Allah, Lord of the 'Alamin (mankind, jinns and all that exists).
 </item>
 </string-array>
+
 <string-array name="Saad
 "><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
@@ -10089,6 +10143,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 88. And you shall certainly know the truth of it after a while.
 </item>
 </string-array>
+
 <string-array name="Az-Zumar"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -10317,7 +10372,8 @@ In the Name of Allah, The Most Gracious, Most Merciful
 <item> 
 75. And you will see the angels surrounding the Throne (of Allah) from all round, glorifying the praises of their Lord (Allah). And they (all the creatures) will be judged with truth, and it will be said. All the praises and thanks be to Allah, the Lord of the 'Alamin (mankind, jinns and all that exists).
 </item>
-</string-array><string-array name="An-Nisa'"><item> 
+</string-array>
+<string-array name="An-Nisa'"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
 <item> 
@@ -10848,6 +10904,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 <item> 
 176. . They ask you for a legal verdict. Say: Allah directs (thus) about Al-Kalalah (those who leave neither descendants nor ascendants as heirs). If it is a man that dies, leaving a sister, but no child, she shall have half the inheritance. If (such a deceased was) a woman, who left no child, her brother takes her inheritance. If there are two sisters, they shall have two-thirds of the inheritance; if there are brothers and sisters, the male will have twice the share of the female. (Thus) does Allah makes clear to you (His Law) lest you go astray. And Allah is the All-Knower of everything.</item>
 </string-array>
+
 <string-array name="Ghafir"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -11110,6 +11167,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 85. Then their Faith (in Islamic Monotheism) could not avail them when they saw Our punishment. (Like) this has been the way of Allah in dealing with His slaves. And there the disbelievers lost utterly (when Our Torment covered them).
 </item>
 </string-array>
+
 <string-array name="Fussilat"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -11279,6 +11337,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 54. Verily! They are in doubt concerning the Meeting with their Lord? (i.e. Resurrection after their deaths, and their return to their Lord). Verily! He it is Who is surrounding all things!
 </item>
 </string-array>
+
 <string-array name="Ash-Shurah"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -11445,6 +11504,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 53. The Path of Allah, to Whom belongs all that is in the heavens and all that is in the earth. Verily, all the matters at the end go to Allah (for decision).
 </item>
 </string-array>
+
 <string-array name="Az-Zukhruf"><item> 
  In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -11719,6 +11779,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 89. So turn away from them (O Muhammad ), and say: Salam (peace)! But they will come to know.
 </item>
 </string-array>
+
 <string-array name="Ad-Dukhan"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -11903,6 +11964,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 59. Wait then (O Muhammad ); Verily, they (too) are waiting.
 </item>
 </string-array>
+
 <string-array name="Al-Jathiyah"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -12021,6 +12083,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 37. And His (Alone) is the Majesty in the heavens and the earth, and He is the All-Mighty, the All-Wise.
 </item>
 </string-array>
+
 <string-array name="Al-Ahqaf"><item> 
  In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -12133,6 +12196,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 35. Therefore be patient (O Muhammad ) as did the Messengers of strong will and be in no haste about them (disbelievers). On the Day when they will see that (torment) with which they are promised (i.e. threatened, it will be) as if they had not stayed more than an hour in a single day. (O mankind! This Qur'an is sufficient as) a clear Message (or proclamation to save yourself from destruction). But shall any be destroyed except the people who are Al-Fasiqun (the rebellious, disobedient to Allah).
 </item>
 </string-array>
+
 <string-array name="Muhammad
 "><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
@@ -12252,6 +12316,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 38. Behold! You are those who are called to spend in the Cause of Allah, yet among you are some who are niggardly. And whoever is niggardly, it is only at the expense of his ownself. But Allah is Rich (Free of all wants), and you (mankind) are poor. And if you turn away (from Islam and the obedience of Allah), He will exchange you for some other people, and they will not be your likes.
 </item>
 </string-array>
+
 <string-array name="Al-Fath"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -12343,6 +12408,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 29. Muhammad () is the Messenger of Allah, and those who are with him are severe against disbelievers, and merciful among themselves. You see them bowing and falling down prostrate (in prayer), seeking Bounty from Allah and (His) Good Pleasure. The mark of them (i.e. of their Faith) is on their faces (foreheads) from the traces of (their) prostration (during prayers). This is their description in the Taurat (Torah). But their description in the Injeel (Gospel) is like a (sown) seed which sends forth its shoot, then makes it strong, it then becomes thick, and it stands straight on its stem, delighting the sowers that He may enrage the disbelievers with them. Allah has promised those among them who believe (i.e. all those who follow Islamic Monotheism, the religion of Prophet Muhammad  till the Day of Resurrection) and do righteous good deeds, forgiveness and a mighty reward (i.e. Paradise).
 </item>
 </string-array>
+
 <string-array name="Al-Hujuraat"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -12401,6 +12467,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 18. Verily, Allah knows the unseen of the heavens and the earth. And Allah is the All-Seer of what you do.
 </item>
 </string-array>
+
 <string-array name="Al-Ma'idah"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -12765,6 +12832,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 120. To Allah belongs the dominion of the heavens and the earth and all that is therein, and He is Able to do all things.
 </item>
 </string-array>
+
 <string-array name="Qaf
 "><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
@@ -12911,6 +12979,7 @@ By the Glorious Qur'an.
 45. We know of best what they say; and you (O Muhammad ) are not a tyrant over them (to force them to Belief). But warn by the Qur'an, him who fears My Threat.
 </item>
 </string-array>
+
 <string-array name="Adh-Dhariyat"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -13095,6 +13164,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 60. Then, woe to those who disbelieve (in Allah and His Oneness Islamic Monotheism) from (that) their Day which they have been promised (for their punishment).
 </item>
 </string-array>
+
 <string-array name="At-Tur"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -13246,6 +13316,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 49. And in the night-time, also glorify His Praises, and at the setting of the stars.
 </item>
 </string-array>
+
 <string-array name="An-Najm"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -13436,6 +13507,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 62. So fall you down in prostration to Allah, and worship Him (Alone).
 </item>
 </string-array>
+
 <string-array name="Al-Qamar"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -13605,6 +13677,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 55. In a seat of truth (i.e. Paradise), near the Omnipotent King (Allah, the All-Blessed, the Most High, the Owner of Majesty and Honour).
 </item>
 </string-array>
+
 <string-array name="Ar-Rahman"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -13843,6 +13916,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 78. Blessed be the Name of your Lord (Allah), the Owner of Majesty and Honour.
 </item>
 </string-array>
+
 <string-array name="Al-Waqi'ah"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -14135,6 +14209,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 96. So glorify with praises the Name of your Lord, the Most Great.
 </item>
 </string-array>
+
 <string-array name="Al-Hadid"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -14227,6 +14302,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 </item>
 
 </string-array>
+
 <string-array name="Al-Mujadilah"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -14297,6 +14373,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 22. You (O Muhammad ) will not find any people who believe in Allah and the Last Day, making friendship with those who oppose Allah and His Messenger (Muhammad  ), even though they were their fathers, or their sons, or their brothers, or their kindred (people). For such He has written Faith in their hearts, and strengthened them with Ruh (proofs, light and true guidance) from Himself. And We will admit them to Gardens (Paradise) under which rivers flow, to dwell therein (forever). Allah is pleased with them, and they with Him. They are the Party of Allah. Verily, it is the Party of Allah that will be the successful.
 </item>
 </string-array>
+
 <string-array name="Al-Hashr"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -14373,6 +14450,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 24. He is Allah, the Creator, the Inventor of all things, the Bestower of forms. To Him belong the Best Names . All that is in the heavens and the earth glorify Him. And He is the All-Mighty, the All-Wise.
 </item>
 </string-array>
+
 <string-array name="Al-An'am"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -14872,6 +14950,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 165. And it is He Who has made you generations coming after generations, replacing each other on the earth. And He has raised you in ranks, some above others that He may try you in that which He has bestowed on you. Surely your Lord is Swift in retribution, and certainly He is Oft-Forgiving, Most Merciful.
 </item>
 </string-array>
+
 <string-array name="Al-Mumtahinah"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -14915,6 +14994,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 13. O you who believe! Take not as friends the people who incurred the Wrath of Allah (i.e. the Jews). Surely, they have been in despair to receive any good in the Hereafter, just as the disbelievers have been in despair about those (buried) in graves (that they will not be resurrected on the Day of Resurrection).
 </item>
 </string-array>
+
 <string-array name="As-Saff"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -14961,6 +15041,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 14. O you who believe! Be you helpers (in the Cause) of Allah as said 'Iesa (Jesus), son of Maryam (Mary), to Al-Hawariun (the disciples): Who are my helpers (in the Cause) of Allah? Al-Hawarieen (the disciples) said: We are Allah's helpers (i.e. we will strive in His Cause!). Then a group of the Children of Israel believed and a group disbelieved. So We gave power to those who believed against their enemies, and they became the uppermost.
 </item>
 </string-array>
+
 <string-array name="Al-Jumu'ah"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -14998,6 +15079,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 11. And when they see some merchandise or some amusement [beating of Tambur (drum) etc.] they disperse headlong to it, and leave you (Muhammad ) standing [while delivering Jumu'ah's religious talk (Khutbah)]. Say That which Allah has is better than any amusement or merchandise! And Allah is the Best of providers.
 </item>
 </string-array>
+
 <string-array name="Al-Munafiqun"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -15035,6 +15117,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 11. And Allah grants respite to none when his appointed time (death) comes. And Allah is All-Aware of what you do.
 </item>
 </string-array>
+
 <string-array name="Al-Taghabun"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -15093,6 +15176,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 18. All-Knower of the unseen and seen, the All-Mighty, the All-Wise.
 </item>
 </string-array>
+
 <string-array name="At-Talaaq"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -15133,6 +15217,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 12. It is Allah Who has created seven heavens and of the earth the like thereof (i.e. seven). His Command descends between them (heavens and earth), that you may know that Allah has power over all things, and that Allah surrounds (comprehends) all things in (His) Knowledge.
 </item>
 </string-array>
+
 <string-array name="At-Tahrim"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -15173,6 +15258,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 12. And Maryam (Mary), the daughter of 'Imran who guarded her chastity; and We breathed into (the sleeve of her shirt or her garment) through Our Ruh [i.e. Jibrael (Gabriel)], and she testified to the truth of the Words of her Lord [i.e. believed in the Words of Allah: Be! and he was; that is 'Iesa (Jesus) - son of Maryam (Mary); as a Messenger of Allah], and (also believed in) His Scriptures, and she was of the Qanitin (i.e. obedient to Allah).
 </item>
 </string-array>
+
 <string-array name="Al-Mulk"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -15267,6 +15353,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 30. Say (O Muhammad ): Tell me! If (all) your water were to be sunk away, who then can supply you with flowing (spring) water?
 </item>
 </string-array>
+
 <string-array name="Al-Qalam"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -15434,6 +15521,7 @@ By the pen and what the (angels) write (in the Records of men).
 </item>
 
 </string-array>
+
 <string-array name="Al-Haqqah"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -15594,6 +15682,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 52. So glorify the Name of your Lord, the Most Great.
 </item>
 </string-array>
+
 <string-array name="Al-A'raf"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -16217,6 +16306,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 </item>
 
 </string-array>
+
 <string-array name="Al-Ma'arij"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -16353,6 +16443,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 44. With their eyes lowered in fear and humility, ignominy covering them (all over)! That is the Day which they were promised!
 </item>
 </string-array>
+
 <string-array name="Nuh"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -16441,6 +16532,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 28. My Lord! Forgive me, and my parents, and him who enters my home as a believer, and all the believing men and women. And to the Zalimun (polytheists, wrong-doers, and disbelievers, etc.) grant You no increase but destruction!
 </item>
 </string-array>
+
 <string-array name="Al-Jinn"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -16529,6 +16621,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 28. [He (Allah) protects them (the Messengers)], till He sees that they (the Messengers) have conveyed the Messages of their Lord (Allah). And He (Allah) surrounds all that which is with them, and He (Allah) keeps count of all things (i.e. He knows the exact number of everything).
 </item>
 </string-array>
+
 <string-array name="Al-Muzzammil"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -16593,6 +16686,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 20. Verily, your Lord knows that you do stand (to pray at night) a little less than two-thirds of the night, or half the night, or a third of the night, and so do a party of those with you, And Allah measures the night and the day. He knows that you are unable to pray the whole night, so He has turned to you (in mercy). So, recite you of the Qur'an as much as may be easy for you. He knows that there will be some among you sick, others travelling through the land, seeking of Allah's Bounty; yet others fighting in Allah's Cause. So recite as much of the Qur'an as may be easy (for you), and perform As-Salat (Iqamat-as-Salat) and give Zakat, and lend to Allah a goodly loan, and whatever good you send before you for yourselves, (i.e. Nawafil non-obligatory acts of worship: prayers, charity, fasting, Hajj and 'Umrah, etc.), you will certainly find it with Allah, better and greater in reward. And seek Forgiveness of Allah. Verily, Allah is Oft-Forgiving, Most-Merciful.
 </item>
 </string-array>
+
 <string-array name="Al-Muddathir"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -16765,6 +16859,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 56. And they will not receive admonition unless Allah wills; He (Allah) is the One, deserving that mankind should be afraid of, and should be dutiful to Him, and should not take any Ilah (God) along with Him, and He is the One Who forgives (sins).
 </item>
 </string-array>
+
 <string-array name="Al-Qiyamah"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -16889,6 +16984,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 40. Is not He (Allah Who does that), Able to give life to the dead? (Yes! He is Able to do all things).
 </item>
 </string-array>
+
 <string-array name="Al-Insan"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -16986,6 +17082,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 31. He will admit to His Mercy whom He will and as for the Zalimun, (polytheists, wrong-doers, etc.) He has prepared a painful torment.
 </item>
 </string-array>
+
 <string-array name="Al-Mursalaat"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -17140,6 +17237,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 50. Then in what statement after this (the Qur'an) will they believe?
 </item>
 </string-array>
+
 <string-array name="An-Naba'"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -17264,6 +17362,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 40. Verily, We have warned you of a near torment, the Day when man will see that (the deeds) which his hands have sent forth, and the disbeliever will say: Woe to me! Would that I were dust!
 </item>
 </string-array>
+
 <string-array name="An-Nazi'aat"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -17406,6 +17505,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 46. The Day they see it, (it will be) as if they had not tarried (in this world) except an afternoon or a morning.
 </item>
 </string-array>
+
 <string-array name="Al-Anfal"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -17635,6 +17735,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 75. And those who believed afterwards, and emigrated and strove hard along with you, (in the Cause of Allah) they are of you. But kindred by blood are nearer to one another regarding inheritance in the decree ordained by Allah. Verily, Allah is the All-Knower of everything.
 </item>
 </string-array>
+
 <string-array name="Abasa"><item> 
   In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -17765,6 +17866,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 42. Such will be the Kafarah (disbelievers in Allah, in His Oneness, and in His Messenger Muhammad (), etc.), the Fajarah (wicked evil doers).
 </item>
 </string-array>
+
 <string-array name="At-Takwir"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -17856,6 +17958,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 29. And you will not, unless (it be) that Allah wills, the Lord of the 'Alamin (mankind, jinns and all that exists).
 </item>
 </string-array>
+
 <string-array name="Al-Infitaar"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -17917,6 +18020,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 19. (It will be) the Day when no person shall have power (to do) anything for another, and the Decision, that Day, will be (wholly) with Allah.
 </item>
 </string-array>
+
 <string-array name="Al-Mutaffifin"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -18030,6 +18134,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 </item>
 
 </string-array>
+
 <string-array name="Al-Inshiqaq"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -18109,6 +18214,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 25. Save those who believe and do righteous good deeds, for them is a reward that will never come to an end (i.e. Paradise).
 </item>
 </string-array>
+
 <string-array name="Al-Burooj"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -18180,6 +18286,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 </item>
 
 </string-array>
+
 <string-array name="At-Tariq"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -18235,6 +18342,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 17. So give a respite to the disbelievers. Deal you gently with them for a while.
 </item>
 </string-array>
+
 <string-array name="Al-A'la"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -18296,6 +18404,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 19. The Scriptures of Ibrahim (Abraham) and Musa (Moses).
 </item>
 </string-array>
+
 <string-array name="Al-Ghaashiyah"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -18378,6 +18487,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 26. Then verily, for Us will be their reckoning.
 </item>
 </string-array>
+
 <string-array name="Al-Fajr"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -18472,6 +18582,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 30. And enter you My Paradise!
 </item>
 </string-array>
+
 <string-array name="At-Taubah"><item> 
 1. Freedom from (all) obligations (is declared) from Allah and His Messenger () to those of the Mushrikun (polytheists, pagans, idolaters, disbelievers in the Oneness of Allah), with whom you made a treaty.
 </item>
@@ -18860,6 +18971,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 129. . But if they turn away, say (O Muhammad ): Allah is sufficient for me. La ilaha illa Huwa (none has the right to be worshipped but He), in Him I put my trust and He is the Lord of the Mighty Throne.
 </item>
 </string-array>
+
 <string-array name="Al-Balad"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -18924,6 +19036,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 20. The Fire will be shut over them (i.e. they will be enveloped by the Fire without any opening or window or outlet.
 </item>
 </string-array>
+
 <string-array name="Ash-Shams"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -18973,6 +19086,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 15. And He (Allah) feared not the consequences thereof.
 </item>
 </string-array>
+
 <string-array name="Al-Lail"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -19040,6 +19154,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 21. He surely will be pleased (when he will enter Paradise).
 </item>
 </string-array>
+
 <string-array name="Ad-Duha"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -19077,6 +19192,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 11. And proclaim the Grace of your Lord (i.e. the Prophethood and all other Graces).
 </item>
 </string-array>
+
 <string-array name="Ash-Sharh"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -19105,6 +19221,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 8. And to your Lord (Alone) turn (all your intentions and hopes and) your invocations.
 </item>
 </string-array>
+
 <string-array name="At-Tin"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -19133,6 +19250,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 8. Is not Allah the Best of judges?
 </item>
 </string-array>
+
 <string-array name="Al-Alaq"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -19195,6 +19313,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 </item>
 
 </string-array>
+
 <string-array name="Al-Qadr"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -19214,6 +19333,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 5. Peace! (All that night, there is Peace and Goodness from Allah to His believing slaves) until the appearance of dawn.
 </item>
 </string-array>
+
 <string-array name="Al-Baiyyinah"><item> 
 In the Name of Allah, The Most Gracious, Most Merciful
 </item>
@@ -19242,6 +19362,7 @@ In the Name of Allah, The Most Gracious, Most Merciful
 8. Their reward with their Lord is 'Adn (Eden) Paradise (Gardens of Eternity), underneath which rivers flow, they will abide therein forever, Allah Well-Pleased with them, and they with Him. That is for him who fears his Lord.
 </item>
 </string-array>
+
 <string-array name="Al-Zalzalah">
 <item> 
 In the Name of Allah, The Most Gracious, Most Merciful
