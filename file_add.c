@@ -19,12 +19,12 @@ int main()
 		char index[4];
 		sprintf(index, "%d", i);
 		// strcpy(file_name,"quran_original/");
-		strcpy(file_name,"quran_original/");
+		strcpy(file_name,"quran.txt");
 		strcpy(file_name1,"quran_with_item_tag/");
-		strcat(file_name,index);
+		// strcat(file_name,index);
 		strcat(file_name1,index);
-		fp = fopen(file_name,"r");
-		fp1 = fopen(file_name1,"w");
+		fp = fopen(file_name1,"r");
+		fp1 = fopen(file_name,"w+");
 		char *tok;
 		int j = 0;
 		// int k = 0;
@@ -33,35 +33,10 @@ int main()
 		// {
 		while( fgets(line,10000,fp) != NULL )
 		{
-			j++;
-			if ( strcmp(line,"\n") == 0 )
-			{
-				continue;
-			}
-			else if ((tok = strstr(line,"Surah") )&& ( j < 6))
-			{
-				tok = strstr(tok," ");
-				tok = strtok(tok," ");
-
-				strcpy(changed,"<string-array name=\"");
-				strcat(changed,tok);
-				strcat(changed,"\">");
-				fputs(changed,fp1);
-
-			}
-			else
-			{
-				strcpy(changed,"<item> ");
-				strcat(changed,"\n");
-				strcat(line,"</item>");
-				strcat(line,"\n");
-				strcat(changed,line);
-				
-
-				fputs(changed,fp1);
-			}
+			
+			 fputs(line,fp1);
 		}
-	 fputs("</string-array>",fp1);
+		// fputs("\n",fp1);
 	}		
 		// fp = fopen("quran_with_item_tag/file_name","w+");
 
